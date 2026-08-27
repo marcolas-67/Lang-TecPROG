@@ -4,9 +4,9 @@
 int main(){
 	int a, b, r, h, som, sub, multi, divis;
 		
-		printf("escreva um n˙mero: \n");
+		printf("escreva um n√∫mero: \n");
 		scanf("%d", &a);
-		printf("escrava outro n˙mero: \n");
+		printf("escrava outro n√∫mero: \n");
 		scanf("%d", &b);
 		
 		if(a > 0 && b > 0){
@@ -23,7 +23,7 @@ int main(){
 
 			}
 		}else{
-			if(a%b == 0) printf("sim"); else printf("n„o");
+			if(a%b == 0) printf("sim"); else printf("n√£o");
 			}
 		}
 	}
