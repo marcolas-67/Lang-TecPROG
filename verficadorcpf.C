@@ -10,7 +10,7 @@ int main(){
 
 int soma, resto, resto2;
 int dg1, dg2, dg3, dg4, dg5, dg6, dg7, dg8, dg9, dgv, dgv2;
-	printf("Escreva o CPF com pontos e traços...\n");
+	printf("Escreva o CPF com pontos e traÃ§os...\n");
 	scanf("%1d%1d%1d.%1d%1d%1d.%1d%1d%1d-%1d%1d", &dg1, &dg2, &dg3, &dg4, &dg5, &dg6, &dg7, &dg8, &dg9, &dgv, &dgv2);
 
 printf("Confirme o CPF %d%d%d.%d%d%d.%d%d%d-%d%d", dg1, dg2, dg3, dg4, dg5, dg6, dg7, dg8, dg9, dgv, dgv2);
